@@ -1,4 +1,4 @@
-![image](https://github.com/Dhanush2468/amazon-product-tracker-/assets/112778628/d8ccb69a-3416-4335-8105-a34cfa7241b4)### OUTPUT
+### OUTPUT
 ![Capture](https://github.com/Dhanush2468/amazon-product-tracker-/assets/112778628/bf520648-f24d-4fc0-8be2-d13ba5ac33a6)
 
 ### PREVIEW LINK : ```https://amazon-product-tracker.vercel.app/``` 
